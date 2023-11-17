@@ -1,2 +1,3 @@
 # Labs
-Lab Git-Hub (Sara Gaber Alexandra Anthony Neeti Mistry)
+Git-Hub for Labs 
+Group: Sara Gaber Alexandra Anthony Neeti Mistry
